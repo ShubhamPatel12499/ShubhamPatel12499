@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shubhampatel12499@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1GHcvOXYlzeX7ByTEFFQczgrRXbW6wm7f](https://drive.google.com/drive/u/0/folders/1GHcvOXYlzeX7ByTEFFQczgrRXbW6wm7f)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
