@@ -47,7 +47,7 @@
 
 - 📫 How to reach me **shubhampatel12499@gmail.com**
 
-<p align="left" margin-top=10px;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel12499" alt="shubhampatel12499" /></a> </p>
+<p align="left" margin-top=10px> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel12499" alt="shubhampatel12499" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
