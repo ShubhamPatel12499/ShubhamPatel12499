@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [link](https://shubhampatel12499.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubhampatel12499.github.io/)
 
 - 💬 Ask me about **ReactJS, HTML, CSS, JavaScript**
 
