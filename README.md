@@ -51,9 +51,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shubhampatel12499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubhampatel12499" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/shubhampatel12499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubhampatel12499" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/shubhampatel12499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampatel12499" height="30" width="40" /></a>
-<!-- <a href="https://codesandbox.com/shubhampatel12499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shubhampatel12499" height="30" width="40" /></a> -->
+<a href="https://codesandbox.com/shubhampatel12499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shubhampatel12499" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/ig_shubham.op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_shubham.op" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/shubhampatel12499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhampatel12499" height="30" width="40" /></a>
 </p>
