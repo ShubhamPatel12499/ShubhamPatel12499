@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **ReactJS, HTML, CSS, JavaScript**
+- 💬 Ask me about **ReactJS, Angular JS, Node Js, HTML, CSS, JavaScript, Typescript**
 
 - 📫 How to reach me **shubhampatel12499@gmail.com**
 
