@@ -1,7 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
-<h3 align="center">
-As a passionate frontend developer from India, I excel in both MERN and MEAN stack technologies. I bring valuable experience, having successfully completed an internship as a frontend developer, showcasing my dedication and proficiency in crafting dynamic and user-friendly interfaces.
-</h3>
+<h3>As a passionate frontend developer from India, I excel in both MERN and MEAN stack technologies. I bring valuable experience, having successfully completed an internship as a frontend developer, showcasing my dedication and proficiency in crafting dynamic and user-friendly interfaces.</h3>
 <img align="right" alt="Coding" width="400" src="https://school.mangoanimate.com/wp-content/uploads/2021/01/56.png" alt="ERRor animated image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatel12499&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatel12499" /> </p>
