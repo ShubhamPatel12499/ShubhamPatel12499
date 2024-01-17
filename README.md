@@ -44,6 +44,8 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shubhampatel12499.github.io/)
 
+- 📄 Know about my experiences [Resume]([https://shubhampatel12499.github.io](https://drive.google.com/file/d/1lLcLgZEiYux62V0Hmk3RJIjpm3aS_uGS/view?usp=sharing))
+
 - 💬 Ask me about **ReactJS, Angular JS, Node Js, HTML, CSS, JavaScript, Typescript**
 
 - 📫 How to reach me **shubhampatel12499@gmail.com**
